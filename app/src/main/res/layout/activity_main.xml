@@ -17,6 +17,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv"
         android:layout_marginTop="158dp"
-        android:text="Pupup_menu" />
+        android:text="Popup menu" />
 
 </RelativeLayout>
